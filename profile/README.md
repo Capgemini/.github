@@ -1,10 +1,13 @@
-## Capgemini GitHub Organisation
+# Capgemini GitHub Organisation
 
+## Becoming a member of the organisation
 
+If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
-### Blog
+## Blog
 
-The [Capgemini Engineers Blog](https://capgemini.github.io/).
+The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
+
 
 
 <!--
