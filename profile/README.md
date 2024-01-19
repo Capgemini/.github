@@ -11,7 +11,7 @@ The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
 
 If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
-## Jobs at Capgemini
+## Work at Capgemini
 
 If you'd like to work at [Capgemini](https://www.capgemini.com/), you can [search the Careers site](https://www.capgemini.com/gb-en/careers/).
 
