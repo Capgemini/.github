@@ -1,10 +1,15 @@
-## Capgemini GitHub Organisation
+# Capgemini GitHub Organisation
+
+Open source projects from [Capgemini](https://www.capgemini.com/)
+
+## Blog
+
+The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
 
 
+## Becoming a member of this organisation
 
-### Blog
-
-The [Capgemini Engineers Blog](https://capgemini.github.io/).
+If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
 
 <!--
