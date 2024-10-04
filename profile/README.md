@@ -11,6 +11,12 @@ The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
 
 If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
+You will need to provide the following information:
+
+* Your GitHub user ID
+* Your full name, as listed in the corporate directory
+* The full name of the practice or team that you work for
+
 ## Work at Capgemini
 
 If you'd like to work at [Capgemini](https://www.capgemini.com/), you can [search the Careers site](https://www.capgemini.com/gb-en/careers/).
