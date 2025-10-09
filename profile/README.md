@@ -11,9 +11,12 @@ The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
 
 If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
+If you can't find a colleague who is already a member, join the 'Engineering Community - Open' Microsoft Team and ask in the 'Github Organisation' channel there.
+
+### Membership Criteria
 You will need to provide the following information:
 
-* Your GitHub user ID
+* Your Capgemini GitHub user ID - which must have MFA enabled
 * Your full name, as listed in the corporate directory
 * The full name of the practice or team that you work for
 
