@@ -11,7 +11,7 @@ The [Capgemini Software Engineering Blog](https://capgemini.github.io/).
 
 If you work for Capgemini, please ask a colleague who is already a member to request access for you via https://github.com/Capgemini/Governance/issues/new/choose
 
-If you can't find a colleague who is already a member, join the 'Engineering Community - Open' Microsoft Team and ask in the 'Github Organisation' channel there.
+If you can't find a colleague who is already a member, join the [Engineering Community - Open' Microsoft Team](https://teams.microsoft.com/l/team/19%3A746fd8bde54c4312b940275e3353c8a0%40thread.skype/conversations?groupId=6e4f1cd5-89e8-4d3e-9457-f80220492884&tenantId=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61) and ask in the [Github Organisation](https://teams.microsoft.com/l/channel/19%3A3c046bcd2856426c988280fcda5874ba%40thread.skype/Github%20Organisation?groupId=6e4f1cd5-89e8-4d3e-9457-f80220492884&tenantId=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61) channel there.
 
 ### Membership Criteria
 You will need to provide the following information:
